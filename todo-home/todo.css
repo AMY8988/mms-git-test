@@ -3,6 +3,8 @@
     height: auto;
     background-color: antiquewhite;
 }
-body{
+.body{
+    box-sizing: border-box;
+    margin: auto;
     
 }
